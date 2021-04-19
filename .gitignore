@@ -7,5 +7,5 @@ config.production.json
 content/data/ghost-local.db
 
 content/themes/*
-!content/themes/casper
+!content/themes/casper-v5
 !content/themes/.gitkeep
